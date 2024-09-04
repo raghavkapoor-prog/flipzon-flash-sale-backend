@@ -1,4 +1,4 @@
-Certainly! Here’s a version of the previous response formatted so you can easily paste it into a `README.md` file:
+
 
 ---
 
